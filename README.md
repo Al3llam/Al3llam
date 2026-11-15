@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://flowerp.sa"><img src="https://img.shields.io/badge/FlowERP-Enterprise%20Solutions-C2410C?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
   <a href="mailto:dev@flowerp.sa"><img src="https://img.shields.io/badge/Contact-dev%40flowerp.sa-0284C7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Al3llam"><img src="https://img.shields.io/badge/GitHub-Al3llam-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Al3llam&color=0284c7&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 ---
@@ -23,6 +23,21 @@
 - ⚙️ **Core Technical Expertise**: Deep architectural command over **Frappe Framework** and **ERPNext (v14, v15, v16)**, custom apps, complex DocTypes, server scripts, and RESTful APIs.
 - 🎨 **UI/UX & Themes Engineering**: Architect of modern Arabic/RTL-first enterprise designs, high-contrast accessible layouts, and bespoke branding experiences.
 - 🐳 **DevOps & Infrastructure**: Building robust, containerized deployments using **Docker**, Docker Compose, Bench orchestration, Nginx reverse proxies, and Redis/MariaDB performance tuning.
+
+---
+
+## 🎯 Core Focus & Solutions
+
+<div align="center">
+
+| Solution Area | Description & Capabilities |
+| :--- | :--- |
+| 🏢 **FlowERP Suite** | Tailored ERP solutions designed for scalable business growth across Saudi Arabia & the MENA region. |
+| 🔄 **ERPNext Version Migration** | Seamless cross-version migration, schema transitions, and data pipelines between v14, v15, and v16. |
+| 🎨 **Enterprise Theming & RTL** | Standalone customizable theme engines featuring adaptive palettes, custom form layouts, and accessible UI. |
+| 🔌 **Integration & Automation** | Seamless API connectivity with E-Invoicing (ZATCA), payment gateways, POS devices, and external microservices. |
+
+</div>
 
 ---
 
@@ -42,25 +57,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Al3llam&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" height="175" alt="Al3llam's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Al3llam&theme=tokyonight&hide_border=false" height="175" alt="Al3llam's GitHub Streak" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al3llam&layout=compact&theme=tokyonight&hide_border=false" height="140" alt="Top Languages" />
-
-</div>
-
----
-
 ## 📬 Get In Touch
 
 <div align="center">
@@ -68,6 +64,8 @@
 [![Website](https://img.shields.io/badge/Official_Website-flowerp.sa-0284C7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://flowerp.sa)
 &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-dev%40flowerp.sa-C2410C?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:dev@flowerp.sa)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Al3llam-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Al3llam)
 
 <br>
 
